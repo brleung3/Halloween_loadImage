@@ -1,3 +1,4 @@
+/* @pjs preload="download.jpg"; */
 PImage img;
 
 void setup() {
